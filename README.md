@@ -1,6 +1,7 @@
  ### Hi! My name is Dzmitry Pimenau.
 #### I made this guide just for the sake of clarity.
 #### Here are examples of some of my work so that you can get a first impression of me and my skills.
+<img src='https://s.dou.ua/img/announces/300_5.png' alt='gmail' height='100'>
 ---
 ### Content:
 + **Checklists, test cases, test run and, bug reports, test result reports**
@@ -12,7 +13,7 @@ _There was a task to write smoke and critical path checks for the "People" and "
 _There was a task to write a test listed test documentation for the registration form, the form is available at the link: http://svyatoslav.biz/testlab/megaform.php_
 + **Business correspondence, estimation of working time**
 5. [Test cases, bug report, TR, estimate of working time, business correspondence on the example of a task for testing a module for an accounting program.](https://github.com/Dzimitrio/Testing-my-examples/blob/main/Test_cases%2Cbug_report%2CTRR%2Cbusiness_correspondence_Pimenau_Dz.docx)
-**MYSQL databases**
++ **MYSQL databases**
 6.[Examples of solving tasks with MySQL databases](https://github.com/Dzimitrio/Testing-my-examples/blob/main/Mysql_Pimenau_Dz.txt)
 
 ---
