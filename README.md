@@ -1,5 +1,5 @@
 ### Hi! My name is Dzmitry Pimenau. 
-####I made this guide just for clarity. Here are examples of some of my work provided here so that you can get a first impression of me and my skills.
+#### I made this guide just for clarity. Here are examples of some of my work provided here so that you can get a first impression of me and my skills.
 
 <img src='https://knowledgeone.ca/wp-content/uploads/2019/07/metacognition_1.jpg' alt='gmail' height='200'>
 
@@ -17,7 +17,7 @@ _There was a task to write a test listed test documentation for the registration
 + **Business correspondence, estimation of working time**
 6. [Test cases, bug report, TR, estimate of working time, business correspondence on the example of a task for testing a module for an accounting program.](https://github.com/Dzimitrio/Testing-my-examples/blob/main/Test_cases%2Cbug_report%2CTRR%2Cbusiness_correspondence_Pimenau_Dz.docx)
 + **MYSQL databases**
-7.[Examples of solving tasks with MySQL databases](https://github.com/Dzimitrio/Testing-my-examples/blob/main/Mysql_Pimenau_Dz.txt)
+7. [Examples of solving tasks with MySQL databases](https://github.com/Dzimitrio/Testing-my-examples/blob/main/Mysql_Pimenau_Dz.txt)
 
 ---
 > **Сontact me:**
