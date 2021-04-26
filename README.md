@@ -3,4 +3,4 @@
 **Here are examples of some of my work so that you can get a first impression of me and my skills.**
 ---
 ### Content:
-[Относительная ссылка на документ](../Dzimitrio/Testing-my-examples/Readme)
+[Относительная ссылка на документ](../Dzimitrio/Testing-my-examples/Readme.md)
