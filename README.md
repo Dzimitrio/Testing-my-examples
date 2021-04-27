@@ -26,4 +26,4 @@ _There was a task to write a test listed test documentation for the registration
 ---
 > **Сontact me:**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/dz-pimenau/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' height='30'>](https://join.skype.com/invite/BX3yatkMlKP5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googledrive.svg' alt='googledrive' height='30'>](https://drive.google.com/file/d/1R2Fg9Szs_0VmJXOnM7Uul1e6CpRiXnQ3/view)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](dz.pimenau@gmail.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/dz-pimenau/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' height='30'>](https://join.skype.com/invite/BX3yatkMlKP5)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30'>](dz.pimenau@gmail.com)  
