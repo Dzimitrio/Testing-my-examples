@@ -15,13 +15,16 @@ _There was a task to write smoke and critical path checks for the "People" and "
 4. [Checklist, test cases, bug report, test result report for the registration form.](https://github.com/Dzimitrio/Testing-my-examples/blob/main/%D0%A1ontrol%20work_2_%20(checklists%2Ctest%20cases%2Cbug_reports%2CTRR)_Pimenau_Dz.xlsx)
 
 _There was a task to write a test listed test documentation for the registration form, the form is available at the link: http://svyatoslav.biz/testlab/megaform.php_
+ 
+5. [ Bug-report for qatest-dev.indvp.com]https://github.com/Dzimitrio/Testing-my-examples/blob/main/Bug-report.pdf)
+_My last work. It was necessary to test the site for errors and create an error report. The task is described in the file description._
 
 + **Test plan**
-5. [The test plan for the final project, developed by me as a team lead.](https://github.com/Dzimitrio/Testing-my-examples/blob/main/Test-plan%2C%20B-team.docx)
+6. [The test plan for the final project, developed by me as a team lead.](https://github.com/Dzimitrio/Testing-my-examples/blob/main/Test-plan%2C%20B-team.docx)
 + **Business correspondence, estimation of working time**
-6. [Test cases, bug report, TR, estimate of working time, business correspondence on the example of a task for testing a module for an accounting program.](https://github.com/Dzimitrio/Testing-my-examples/blob/main/Test_cases%2Cbug_report%2CTRR%2Cbusiness_correspondence_Pimenau_Dz.docx)
+7. [Test cases, bug report, TR, estimate of working time, business correspondence on the example of a task for testing a module for an accounting program.](https://github.com/Dzimitrio/Testing-my-examples/blob/main/Test_cases%2Cbug_report%2CTRR%2Cbusiness_correspondence_Pimenau_Dz.docx)
 + **MYSQL databases**
-7. [Examples of solving tasks with MySQL databases](https://github.com/Dzimitrio/Testing-my-examples/blob/main/Mysql_Pimenau_Dz.txt)
+8. [Examples of solving tasks with MySQL databases](https://github.com/Dzimitrio/Testing-my-examples/blob/main/Mysql_Pimenau_Dz.txt)
 
 ---
 > **Сontact me:**
