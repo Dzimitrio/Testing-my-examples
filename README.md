@@ -16,7 +16,8 @@ _There was a task to write smoke and critical path checks for the "People" and "
 
 _There was a task to write a test listed test documentation for the registration form, the form is available at the link: http://svyatoslav.biz/testlab/megaform.php_
  
-5. [ Bug-report for qatest-dev.indvp.com]https://github.com/Dzimitrio/Testing-my-examples/blob/main/Bug-report.pdf)
+5. [ Bug-report for qatest-dev.indvp.com](https://github.com/Dzimitrio/Testing-my-examples/blob/main/Bug-report.pdf)
+
 _My last work. It was necessary to test the site for errors and create an error report. The task is described in the file description._
 
 + **Test plan**
