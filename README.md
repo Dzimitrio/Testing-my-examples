@@ -18,7 +18,7 @@ _There was a task to write a test listed test documentation for the registration
  
 5. [ Bug-report for qatest-dev.indvp.com](https://github.com/Dzimitrio/Testing-my-examples/blob/main/Bug-report.pdf)
 
-_My last work. It was necessary to test the site for errors and create an error report. The task is described in the file description._
+_My last work. It was necessary to test the site for bugs and create a bug report. The task is described in the file description._
 
 + **Test plan**
 6. [The test plan for the final project, developed by me as a team lead.](https://github.com/Dzimitrio/Testing-my-examples/blob/main/Test-plan%2C%20B-team.docx)
